@@ -14,6 +14,17 @@ VSAQs showed higher item discrimination (Rir-values) than MCQs in all exams. VSA
 VSAQs outperform MCQs in distinguishing academic performance levels across multiple assessments. Their integration into examinations enhances discriminative ability and may facilitate earlier identification of poor and excellent performing students, enabling targeted interventions and support of students.
 
 ## Codes
+*common.py
+*data_loader.py
+*poetry.lock
+*pyproject.toml
+*linear_regression_individual.py
+*linear_regression_individual.ipynb
+*linear_regression.py
+*linear_regression.ipynb
+*roc-paired.ipynb
 
 ## Data
+*student_scores_exams.xlsx
+*gpa.xlsx
 
