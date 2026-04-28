@@ -6,6 +6,8 @@ data_folder = Path("./data")
 intermediate_folder = Path("./intermediate")
 results_folder = Path("./results")
 
+results_folder.mkdir(exist_ok=True)
+
 
 def write_excel(dfs, path, autoformat=True):
     with pd.ExcelWriter(path, engine="xlsxwriter") as writer:
